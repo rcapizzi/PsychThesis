@@ -12,7 +12,7 @@ Design
 
 Participants were administered a survey comprising of a Personal Strivings Measure and the
 Nonattachment Scale. Participants answered only part of the questionnaires, as the study used
-a planned missing data design incorporating a multiple imputation procedure. Analyses
+a planned missing data design incorporating a multiple imputation procedure. Analyses using SPSS statistical procedures
 revealed a moderate correlation between striving progress and non-attachment. 
 
 Findings
