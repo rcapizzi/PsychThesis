@@ -3,10 +3,10 @@ Fourth-year psychology thesis on non-attachment
 
 Non-Attachment
 
-Non-attachment is a cognitive style in which an individual releases their mental fixations, or
-‘attachments’, to acquiring wanted outcomes and desires. As such, it appears to be
-psychologically advantageous. The present study examined the relationship between levels of
-non-attachment and personal striving progress, and other striving characteristics. 
+Personal strivings can be understood as individuals life intentions or goals. Non-attachment is a 
+cognitive style in which an individual releases their mental fixations, or ‘attachments’, to acquiring wanted 
+outcomes and desires. As such, it appears to be psychologically advantageous. The present study examined the 
+relationship between levels of non-attachment and personal striving progress, and other striving characteristics. 
 
 Design
 
